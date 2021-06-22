@@ -1,1 +1,1 @@
-# infinite-scroll
+# 1. Infinite-Scroll Challenge

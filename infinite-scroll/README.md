@@ -25,7 +25,6 @@ Each pin displays the following:
 * Node.js is a JavaScript runtime environment and will help us with installing and running React.
 * Download Node.js here: https://nodejs.org/en/download/
 * Have the latest version of React installed.
-* 
 
 ### Installing
 
@@ -37,7 +36,8 @@ Each pin displays the following:
 
 * Open a terminal window. Terminal in Mac OS. Windows Command Prompt or PowerShell in Windows. 
 * In the terminal, make your way to the directory in which the program is saved.
-* while in /infinite-scroll, run the command:
+* Go into the directory infinite-scroll/infinite-scroll/
+* while in infinite-scroll/infinite-scroll/, run the command:
 ```
 npm start.
 ```

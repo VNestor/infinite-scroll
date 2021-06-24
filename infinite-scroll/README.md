@@ -39,7 +39,8 @@ Each pin displays the following:
 * Go into the directory infinite-scroll/infinite-scroll/
 * while in infinite-scroll/infinite-scroll/, run the command:
 ```
-npm start.
+npm install
+npm start
 ```
 * The program will open in your preferred browser under http://localhost:3000/
 
@@ -57,7 +58,7 @@ npm start.
 Use the following to ensure all neccesary programs are up to date:
 * React update 
 ```
-create-react-app
+npm install
 ```
 * Node update
 ```

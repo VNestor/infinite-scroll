@@ -43,6 +43,15 @@ npm start.
 ```
 * The program will open in your preferred browser under http://localhost:3000/
 
+## Output
+### When program is executed, only 6 pins are loaded.
+![TTPScreenshot 1](https://user-images.githubusercontent.com/37969271/123192215-750acd80-d470-11eb-9498-f9386cec0e78.PNG)
+
+
+### When we keep scrolling, the pins stop updating when there we've reached the end of the JSON data.
+![TTPScreenshot 2](https://user-images.githubusercontent.com/37969271/123192368-c3b86780-d470-11eb-8323-5b1b6fe438b9.PNG)
+
+
 ## Help
 
 Use the following to ensure all neccesary programs are up to date:

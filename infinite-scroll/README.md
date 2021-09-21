@@ -2,6 +2,8 @@
 
 A React web application that implements an infinite scroll feature. 
 
+Source code can be found here: https://github.com/VNestor/infinite-scroll/blob/master/infinite-scroll/src/components/pins.jsx
+
 ## Description
 
 Using React and React Hooks, I implemented a simple infinite scroll. Using the JSON data of Pinterest Pins provided, I display 6 'pins' at a time, until the window reaches the end. The application then waits 1.5 seconds until the next 6 pins display, and will continue to do so until it reaches the end of the JSON data.
